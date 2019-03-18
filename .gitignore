@@ -1,0 +1,4 @@
+/dependencies
+node_modules
+# Editor files #
+*.sublime-workspace
